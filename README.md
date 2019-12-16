@@ -41,8 +41,3 @@ python2 exp_input.py 3306
 直接回车即可退出，读取成功的文件也会被计入到log文件夹
 
 
-## 安利一下
-安利一下我的任意文件读取的fuzz字典项目
-
-[https://github.com/ev0A/ArbitraryFileReadList](https://github.com/ev0A/ArbitraryFileReadList)
-
